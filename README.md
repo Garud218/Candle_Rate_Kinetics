@@ -1,1 +1,1 @@
-# Candle_Rate_Kinetics
+# Rate Kinetics of Burning Candle
